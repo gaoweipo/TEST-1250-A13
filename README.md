@@ -3,19 +3,19 @@ Ce dépot est un test dans le cadre du cours A13
 
 ## GitHub
 1,initialiser un dépot
-ajouter des collaborateurs
-choisir une license (MIT / GNU)
-ajouter des collaborateurs
-commit
-branche
-pull request
-merge
-gerer un conflit
-clone 
-pull
-push
-utiliser github Desktop
-configurer IDE IntelliJ
+2, ajouter des collaborateurs
+3, choisir une license (MIT / GNU)
+4, ajouter des collaborateurs
+5, commit
+6, branche
+7, pull request
+8, merge
+9, gerer un conflit
+10, clone 
+11, pull
+12, push
+13, utiliser github Desktop
+14, configurer IDE IntelliJ
 ...
 
 ## Project
